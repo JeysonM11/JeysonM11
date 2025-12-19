@@ -1,75 +1,143 @@
-<h1 align="center">Hi , I'm Jeyson Miranda <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+﻿<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi++I'm+Jeyson+Miranda;Full+Stack+Developer;Backend+Specialist;Always+Learning+" alt="Typing SVG" />
+</div>
 
-## <picture><img src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 50px></picture> About me
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=JeysonM11&style=for-the-badge&color=blueviolet" alt="Profile Views" />
+  <a href="https://storage.rxresu.me/clp9fuieq1yc49hunbrigncop/resumes/jeyson-miranda.pdf"><img src="https://img.shields.io/badge/Resume-Download-success?style=for-the-badge&logo=adobe-acrobat-reader&logoColor=white" alt="Resume" /></a>
+  <img src="https://img.shields.io/badge/Open%20To-Job%20Opportunities-brightgreen?style=for-the-badge" alt="Open to work" />
+</div>
 
+<br/>
 
-<br><br>
+##  About Me
 
-- :school: I am a `Software Developer` from `Tecnológico Confenalco`.  
-- :trophy: Passionate about building efficient and scalable applications.  
-- :technologist: I specialize in backend and full-stack development using:  
-  - **Laravel & Livewire**: Dynamic and interactive web applications with MVC architecture.  
-  - **Java & Spring Boot**: RESTful APIs, microservices, dependency injection, and Spring Security.  
-  - **Node.js**: Event-driven programming, asynchronous operations, and Express.js for API development.  
-- :computer: Experienced in database management with `MySQL`, `PostgreSQL`, and `Eloquent ORM`.  
-- :art: Frontend development with `Tailwind CSS`, `Blade Components`, and `Alpine.js`.  
-- :gear: DevOps and deployment using `Docker`, `CI/CD`, and `Cloud Services`.  
-- :student: Always exploring new technologies in `Software Engineering`, `Design Patterns`, and `Best Practices`.  
-- :nerd_face: Interested in system architecture, scalable solutions, and clean code principles.  
-- :thinking: I’m currently open for a new `job opportunity`, this is [MY RESUME](https://storage.rxresu.me/clp9fuieq1yc49hunbrigncop/resumes/jeyson-miranda.pdf).
- 
+```javascript
+const jeyson = {
+    location: "Colombia ",
+    education: "Software Developer @ Tecnológico Confenalco",
+    currentFocus: "Building scalable applications with clean architecture",
+    interests: ["Backend Development", "System Design", "Cloud Computing", "DevOps"],
+    lookingFor: "Opportunities to create impactful software solutions"
+};
+```
 
+###  What I Do
 
-<br>
+-  **Backend Development**: Building robust APIs and microservices with **Spring Boot**, **Laravel**, and **Node.js**
+-  **Full-Stack Solutions**: Creating dynamic applications with **Livewire**, **Alpine.js**, and **Tailwind CSS**
+-  **Database Design**: Expert in **PostgreSQL**, **MySQL**, **MongoDB**, and **Eloquent ORM**
+-  **DevOps & Cloud**: Deploying with **Docker**, **AWS**, **GCP**, and implementing **CI/CD** pipelines
+-  **Architecture**: Applying **Design Patterns**, **SOLID principles**, and **Clean Code** best practices
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<br/>
 
-### 🛠 &nbsp;Tech Stack
+##  Tech Stack
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)&nbsp;
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)&nbsp;
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)&nbsp;
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
-![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)&nbsp;
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
+###  Languages & Frameworks
 
-### 🗃 &nbsp;Databases
+<div align="center">
 
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
+</div>
 
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)&nbsp;
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)&nbsp;
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)&nbsp; 
+###  Frontend Technologies
 
+<div align="center">
 
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpine.js&logoColor=black)
+![Livewire](https://img.shields.io/badge/Livewire-4E56A6?style=for-the-badge&logo=livewire&logoColor=white)
 
-### 🧰 &nbsp;Version Controll & Tools 
+</div>
 
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
-![Brave](https://img.shields.io/badge/Brave-FB542B?style=for-the-badge&logo=Brave&logoColor=white)&nbsp;
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)&nbsp;
-![Apache Maven](https://img.shields.io/badge/Apache%20Maven-C71A36?style=for-the-badge&logo=Apache%20Maven&logoColor=white)&nbsp;
-&emsp;
-    <a href="#"><img alt="Docker" src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white"></a>
-     &emsp;
-    <a href="#"><img alt="AWS" src="https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"></a>
-    &emsp;
-    <a href="#"><img alt="Trello" src="https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white"></a>
+###  Databases
 
+<div align="center">
 
-### ☎️ &nbsp;Contact me 
-![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)&nbsp;
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)&nbsp;
-![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)&nbsp;
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+</div>
 
-## 🐍 A Snake Eating my Contributions Graph
-	
-<p align="center">
-  <img  src="https://raw.githubusercontent.com/Elanza-48/Elanza-48/main/resources/img/github-contribution-grid-snake.svg"
-    alt="example" />
-</p>
+###  Tools & DevOps
+
+<div align="center">
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
+
+</div>
+
+<br/>
+
+##  GitHub Statistics
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeysonM11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonM11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeysonM11&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+</div>
+
+<br/>
+
+##  GitHub Trophies
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=JeysonM11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+</div>
+
+<br/>
+
+##  Contribution Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeysonM11&custom_title=Jeyson's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=2e9ef7&line=2e9ef7&point=58a6ff&area_color=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeysonM11/JeysonM11/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeysonM11/JeysonM11/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JeysonM11/JeysonM11/output/github-contribution-grid-snake.svg">
+</picture>
+
+<br/><br/>
+
+##  Let's Connect
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeyson-miranda)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeyson.m11)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jeyson.miranda)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeyson.miranda@example.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jeysonmiranda.dev)
+
+</div>
+
+---
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=150&section=footer&text=Thanks%20for%20visiting!&fontSize=40&fontAlignY=70&desc=Let's%20build%20something%20amazing%20together&descAlignY=90&descAlign=50" width="100%" />
+</div>
