@@ -119,56 +119,59 @@ const jeyson = {
 ##  GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeysonM11&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonM11&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0d1117"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeysonM11&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonM11&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=JeysonM11&theme=tokyonight&hide_border=true&background=0d1117" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=JeysonM11&theme=radical&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <br/>
 
-##  GitHub Trophies
+##  GitHub Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeysonM11&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&column=7" alt="GitHub Trophies" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeysonM11&custom_title=Contribution%20Activity&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area_color=38bdae&title_color=70a5fd&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br/>
 
-##  Contribution Graph
+##  Achievements
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeysonM11&custom_title=Jeyson's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=2e9ef7&line=2e9ef7&point=58a6ff&area_color=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=JeysonM11&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
 </div>
 
 <br/>
 
-## 🐍 Watch the Snake eat my contributions!
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeysonM11/JeysonM11/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeysonM11/JeysonM11/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JeysonM11/JeysonM11/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
-<br/>
-
-## 📈 Weekly Development Breakdown
+## 🐍 Snake eating my contributions
 
 <div align="center">
   
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JeysonM11&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact" alt="Wakatime Stats" />
+![snake gif](https://github.com/JeysonM11/JeysonM11/blob/output/github-contribution-grid-snake.svg)
 
 </div>
 
-<br/><br/>
+<details>
+  <summary><b>📊 GitHub Metrics</b></summary>
+  <br/>
+  <p align="center">
+    <img src="https://metrics.lecoq.io/JeysonM11?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&achievements.threshold=C&achievements.secrets=true&achievements.display=compact&achievements.limit=0&config.timezone=America%2FBogota" alt="Metrics">
+  </p>
+</details>
+
+<br/>
+
+## 📁 Featured Projects
+
+<div align="center">
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=JeysonM11&repo=JeysonM11&theme=tokyonight&hide_border=true&bg_color=0d1117)](https://github.com/JeysonM11/JeysonM11)
+
+</div>
+
+<br/>
 
 ##  Let's Connect
 
