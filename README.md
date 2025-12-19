@@ -1,5 +1,9 @@
 ﻿<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Hi++I'm+Jeyson+Miranda;Full+Stack+Developer;Backend+Specialist;Always+Learning+" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,16,20&height=200&section=header&text=Jeyson%20Miranda&fontSize=80&fontAlignY=35&animation=fadeIn&desc=Full%20Stack%20Developer%20|%20Backend%20Specialist&descAlignY=55&descSize=20" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Hi+👋+I'm+Jeyson+Miranda;Building+Scalable+Solutions;Backend+%26+Full+Stack+Expert;Always+Learning+%26+Growing+🚀" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -29,6 +33,12 @@ const jeyson = {
 -  **Database Design**: Expert in **PostgreSQL**, **MySQL**, **MongoDB**, and **Eloquent ORM**
 -  **DevOps & Cloud**: Deploying with **Docker**, **AWS**, **GCP**, and implementing **CI/CD** pipelines
 -  **Architecture**: Applying **Design Patterns**, **SOLID principles**, and **Clean Code** best practices
+
+<div align="center">
+  
+> 💡 *"Code is like humor. When you have to explain it, it's bad."* - Cory House
+
+</div>
 
 <br/>
 
@@ -89,6 +99,23 @@ const jeyson = {
 
 <br/>
 
+## 📊 Quick Stats
+
+<div align="center">
+
+![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Spring-informational?style=flat&logo=spring&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Framework-Laravel-informational?style=flat&logo=laravel&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=node.js&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Shell-PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=postgresql&logoColor=white&color=2bbc8a)
+
+</div>
+
+<br/>
+
 ##  GitHub Statistics
 
 <div align="center">
@@ -116,11 +143,30 @@ const jeyson = {
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeysonM11&custom_title=Jeyson's%20GitHub%20Activity%20Graph&bg_color=0d1117&color=2e9ef7&line=2e9ef7&point=58a6ff&area_color=58a6ff&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeysonM11/JeysonM11/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeysonM11/JeysonM11/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JeysonM11/JeysonM11/output/github-contribution-grid-snake.svg">
-</picture>
+<br/>
+
+## 🐍 Watch the Snake eat my contributions!
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JeysonM11/JeysonM11/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JeysonM11/JeysonM11/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JeysonM11/JeysonM11/output/github-contribution-grid-snake.svg">
+  </picture>
+</div>
+
+<br/>
+
+## 📈 Weekly Development Breakdown
+
+<div align="center">
+  
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+<img src="https://github-readme-stats.vercel.app/api/wakatime?username=JeysonM11&theme=tokyonight&hide_border=true&bg_color=0d1117&layout=compact" alt="Wakatime Stats" />
+
+</div>
 
 <br/><br/>
 
