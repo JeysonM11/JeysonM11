@@ -119,28 +119,21 @@ const jeyson = {
 ##  GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JeysonM11&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonM11&layout=compact&langs_count=8&theme=radical&hide_border=true"/>
-</div>
+  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=JeysonM11&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true)
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com/?user=JeysonM11&theme=radical&hide_border=true" alt="GitHub Streak" />
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=JeysonM11&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
-<br/>
-
-##  GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=JeysonM11&custom_title=Contribution%20Activity&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area_color=38bdae&title_color=70a5fd&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
 <br/>
 
-##  Achievements
+##  Contribution Activity
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=JeysonM11&theme=radical&no-frame=true&no-bg=false&margin-w=4&column=7" alt="GitHub Trophies" />
+  
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=JeysonM11&bg_color=1a1b27&color=38bdae&line=70a5fd&point=bf91f3&area_color=38bdae&title_color=70a5fd&area=true&hide_border=true)
+
 </div>
 
 <br/>
@@ -177,11 +170,11 @@ const jeyson = {
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jeyson-miranda)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeyson-miranda/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://6945b16b7b044b12d5ce681d--jeyson.netlify.app/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/jeyson.m11)
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/jeyson.miranda)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeyson.miranda@example.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://jeysonmiranda.dev)
 
 </div>
 
